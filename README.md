@@ -1,4 +1,4 @@
-# Портфолио: аналитик данных
+# Портфолио: Аналитик данных
 
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/699e4762225981.5a89af14d87a9.gif)
 
