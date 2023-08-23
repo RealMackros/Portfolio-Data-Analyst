@@ -18,16 +18,10 @@
 <p align="right">(<a href="#содержание">к содержанию</a>)</p>
 
 ## Навыки и технологии
-- Инструменты анализа данных: ![SQL-img], ![Excel-img]: 
-- Языки программирования и библиотеки: ![Python-img], ``Pandas``, ``math`` 
+- Инструменты анализа данных: ``SQL``, ``Excel`` 
 - Системы управления базами данных: ``MySQL``, ``PostgreSQL``
-- Средства визуализации данных: ``PowerBi``, ``Matplotlib``, ``seaborn``
-- Инструменты для машинного обучения: ``scikit-learn``, ``TensorFlow``
- <br><br>
-![Codewars](https://github.r2v.ch/codewars?user=Mackros&top_languages=true)
-
-
-
+- Средства визуализации данных: ``PowerBi``
+ 
 <p align="right">(<a href="#содержание">к содержанию</a>)</p>
 
 ## Проекты
