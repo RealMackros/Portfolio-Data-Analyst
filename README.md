@@ -18,14 +18,15 @@
 <p align="right">(<a href="#содержание">к содержанию</a>)</p>
 
 ## Навыки и технологии
-- Инструменты анализа данных: ``SQL``, ``Excel`` 
-- Системы управления базами данных: ``MySQL``, ``PostgreSQL``
-- Средства визуализации данных: ``PowerBi``
+- Инструменты анализа данных: ![SQL-img],  ![Excel-img] 
+- Системы управления базами данных: ![MySQL-img], ![PostgreSQL-img]
+- Средства визуализации данных: ![PowerBi-img]
  
 <p align="right">(<a href="#содержание">к содержанию</a>)</p>
 
 ## Проекты
-<p> Проект 1: Калькулятор юнит-экономики онлайн-школы</p>
+![Project-1-img] ![Project-1t-img] 
+
 <p>Что нужно было сделать:<p>
 <ol>
   <li>Настроить в калькуляторе учет корректировок планов маркетинга</li>
@@ -41,12 +42,13 @@
   
 <p>Выводы (итоги):<p>
 <ol>
-  <li>Итог №1</li>
-  <li>Итог №2</li>
+  <li>Отдел маркетинга получил возможность видеть общую картину экономики онлайн-школы, с точечным изменением показетелей в своей зоне ответственности. Отдел маркетинга увеличил свои планы на 12%, что позволило увеличить прогноз роста студентов на 10% и объем выручки на 3,5 млн. рублей</li>
+  <li>С добавлением функционала появилась возможность регулировать найм препоадавателей, тем самым удерживая количество уроков и пропускную способность на приемлемом уровне. </li>
 </ol>
 <br> 
 
-<p> Проект 2: Калькулятор юнит-экономики онлайн-кинотеатра</p>
+![Project-2-img] ![Project-2t-img] 
+
 <p>Что нужно было сделать:<p>
 <ol>
   <li>Задача №1</li>
@@ -66,7 +68,9 @@
 <br> 
 
 <br> 
-<p> Проект 3: Когортный анализ онлайн-кинотеатра с помощью SQL</p>
+
+![Project-3-img] ![Project-3t-img] 
+
 <p>Что нужно было сделать:<p>
 <ol>
   <li>Задача №1</li>
@@ -85,7 +89,9 @@
 </ol>
 
 <br> 
-<p>Проект 4: Построение витрины для модели машинного обучения в банке </p> 
+
+![Project-4-img] ![Project-4t-img] 
+
 <p>Что нужно было сделать: задача №1.<p>
   
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
@@ -100,8 +106,8 @@
 </ol>
 <br> 
 
+![Project-5-img] ![Project-5t-img] 
 
-<p>Проект 5: Моделирование изменения балансов студентов</p> 
 <p>Что нужно было сделать:<p>
 <ol>
   <li>Задача №1</li>
@@ -132,4 +138,16 @@
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [SQL-img]: https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=amazondynamodb&logoColor=white
 [Excel-img]: https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoftexcel&logoColor=white
-[Python-img]: https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow
+[MySQL-img]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white
+[PostgreSQL-img]: https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white
+[PowerBi-img]: https://img.shields.io/badge/PowerBi-yellow?style=for-the-badge&logo=PowerBi&logoColor=white
+[Project-1-img]: https://img.shields.io/badge/Проект-1-8A2BE2
+[Project-1t-img]: https://img.shields.io/badge/Калькулятор_юнит_экономики-онлайн_школы-8A2BE2
+[Project-2-img]: https://img.shields.io/badge/Проект-2-8A2BE2
+[Project-2t-img]: https://img.shields.io/badge/Калькулятор_юнит_экономики-онлайн_кинотеатра-8A2BE2
+[Project-3-img]: https://img.shields.io/badge/Проект-3-8A2BE2
+[Project-3t-img]: https://img.shields.io/badge/Когортный_анализ_онлайн_кинотеатра-с_помощью_SQL-8A2BE2
+[Project-4-img]: https://img.shields.io/badge/Проект-4-8A2BE2
+[Project-4t-img]: https://img.shields.io/badge/Построение_витрины_для_модели_машинного_обучения-в_банке-8A2BE2
+[Project-5-img]: https://img.shields.io/badge/Проект-5-8A2BE2
+[Project-5t-img]: https://img.shields.io/badge/Моделирование_изменения-баланса_студентов-8A2BE2
